@@ -1,0 +1,54 @@
+.fb {
+    color: blue;
+}
+
+.center {
+    justify-content: space-between;
+    display: flex;
+}
+.button {
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    width: 70%;
+}
+.for {
+     font-size: 25px;
+     color: blue;
+}
+input {
+    height: 40px;
+    margin: 10px;
+    width: 68%;
+}
+.cre {
+    font-size: 20px;
+    text-align: center;
+    background-color: green;
+    color: white;
+    width: 50%  ;
+    border-radius: 8px;
+}
+.p1 {
+     flex-direction: column;
+}
+.top {
+    font-size: 30px;
+   
+}
+.logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 30px;
+}
+.foam {
+    border: 1px solid white;
+    background-color: white;
+    width: 90%;
+    
+}
+body {
+    
+    background-color: rgb(236, 225, 225);
+}
